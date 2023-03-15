@@ -1,5 +1,3 @@
-# HTML
-Patika-HTML homework
 <!--Name and Surname -->
 <html style="background-color: bisque;"></html>
 <h1>FURKAN KARAKUS</h1> 
@@ -54,7 +52,7 @@ Patika-HTML homework
         </ul>
 </ol>
  <a href="https://www.netflix.com/tr/title/80002479" target="_blank">
-    <img width="750" height="450" src="images-patika.dev/Peaky-Blinders.jpg"
+    <img width="450" height="350" src="https://cdn.mos.cms.futurecdn.net/XEK4FUJXn38oArTXbqGzFZ.jpg"
     title="My Favourite Netflix Series" alt="Peaky Blinders Gang"> 
   </a>
 <br>

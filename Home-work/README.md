@@ -1,2 +1,2 @@
-Google1998 look
-![Screenshot](Home-work/img/Google.png)
+## Google1998 First Look
+![Screenshot](img/Google.png)

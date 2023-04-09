@@ -1,2 +1,2 @@
 ## Google New Look
-![Screenshot](Updated-Google/img/New-Look.png)
+![Screenshot](img/New-Look.png)
